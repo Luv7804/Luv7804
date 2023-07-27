@@ -1,16 +1,71 @@
-### Hi there 👋
+<h2 align='center'> <i>Hello, Folks!</h2>
+_Hello there, This is **Chintan Viradiya**. Working as [Devops Engineer](https://www.linkedin.com/in/chintan-viradiya-04484b1b8/) at [Improwised](https://www.linkedin.com/company/improwised-technologies/). You can see my work down below. I love to make a Containerize Application. I am a friendly guy you can connect with me on social media, I would love to have you in my life._
+<h3 align='center'><i>Connect with me:</i></h3>
+<p align='center'>
+<table width="100" align='center'>
+<tr>
+<td>
+<a href="https://linkedin.com/in/chintan-viradiya-04484b1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chintan-viradiya-04484b1b8" height="40" width="40" /></a>
+</td>
+<td>
+<a href="https://instagram.com/chintan_7804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chintan_7804" height="40" width="40" /></a>
+</td>
+<td>
+<a href="https://www.codechef.com/users/patel_7804" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="patel_7804" height="40" width="40" /></a>
+</td>
+</tr>
+</table>
+</p>
+</br>
+<table>
+<tr>
+<td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luv7804&show_icons=true&locale=en&layout=compact" alt="luv7804" /></td>
+<td>
+ <img src="https://github-readme-stats.vercel.app/api?username=Luv7804&show_icons=true&theme=radical&count_private=true" width="100%">
+ </td>
+ </tr></table>
+<h2 align='center'><i><a href="https://github.com/Luv7804/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Luv7804/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luv7804&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Luv7804/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luv7804&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+</br>
+<h2 align='center'><i>Languages and Tools</i></h2>
 
-<!--
-**Luv7804/Luv7804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/rancher/rancher-ar21.svg">
+    </td>
+      <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-ar21.svg">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg">
+    </td>
+    <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg">
+    </td>
+</tr>
+</table>
