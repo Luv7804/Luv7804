@@ -1,5 +1,6 @@
+
 <h2 align='center'> <i>Hello, Folks!</h2>
-_Hello there, This is **Chintan Viradiya**. Working as [Devops Engineer](https://www.linkedin.com/in/chintan-viradiya-04484b1b8/) at [Improwised](https://www.linkedin.com/company/improwised-technologies/). You can see my work down below. I love to make a Containerize Application. I am a friendly guy you can connect with me on social media, I would love to have you in my life._
+<p>Hello there, This is <b>Chintan Viradiya</b>. Working as <a href='https://www.linkedin.com/in/chintan-viradiya-04484b1b8/'>Devops Engineer</a> at <a href='https://www.linkedin.com/company/improwised-technologies/'>Improwised Technology</a>. I Love to streamlining software delivery and optimizing infrastructure. Proficient in CI/CD pipeline, implementation, and automation. Skilled in containerization with Docker and orchestration with Kubernetes. Adept at ensuring security, scalability, and reliability in modern software development environments.I work with developers to deploy and manage code changes, and with operations staff to ensure that systems are up and running smoothly. I am a friendly guy you can connect with me on social media, I would love to have you in my life.</p>
 <h3 align='center'><i>Connect with me:</i></h3>
 <p align='center'>
 <table width="100" align='center'>
