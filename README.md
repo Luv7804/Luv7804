@@ -1,6 +1,5 @@
-
 <h2 align='center'> <i>Hello, Folks!</h2>
-<p>Hello there, This is <b>Chintan Viradiya</b>. Working as <a href='https://www.linkedin.com/in/chintan-viradiya-04484b1b8/'>Devops Engineer</a> at <a href='https://www.linkedin.com/company/improwised-technologies/'>Improwised Technology</a>. I Love to streamlining software delivery and optimizing infrastructure. Proficient in CI/CD pipeline, implementation, and automation. Skilled in containerization with Docker and orchestration with Kubernetes. Adept at ensuring security, scalability, and reliability in modern software development environments.I work with developers to deploy and manage code changes, and with operations staff to ensure that systems are up and running smoothly. I am a friendly guy you can connect with me on social media, I would love to have you in my life.</p>
+<p style="font-size:16px">Hello there, This is <b>Chintan Viradiya</b>. Working as <a href='https://www.linkedin.com/in/chintan-viradiya-04484b1b8/'>Devops Engineer</a> at <a href='https://www.linkedin.com/company/improwised-technologies/'>Improwised Technology</a>. I Love to streamlining software delivery and optimizing infrastructure. Proficient in CI/CD pipeline, implementation, and automation. Skilled in containerization with Docker and orchestration with Kubernetes. Adept at ensuring security, scalability, and reliability in modern software development environments.I work with developers to deploy and manage code changes, and with operations staff to ensure that systems are up and running smoothly. I am a friendly guy you can connect with me on social media, I would love to have you in my life.</p>
 <h3 align='center'><i>Connect with me:</i></h3>
 <p align='center'>
 <table width="100" align='center'>
@@ -40,33 +39,33 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg>
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
     </td>
 </tr>
 <tr>
     <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/rancher/rancher-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg">
     </td>
       <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-ar21.svg">
+        <img src=https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg">
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg">
     </td>
     <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
     </td>
 </tr>
 </table>
