@@ -1,5 +1,5 @@
 <h2 align='center'> <i>Hello, Folks!</h2>
-<p style="font-size:16px">Hello there, This is <b>Chintan Viradiya</b>. Working as <a href='https://www.linkedin.com/in/chintan-viradiya-04484b1b8/'>Devops Engineer</a> at <a href='https://www.linkedin.com/company/improwised-technologies/'>Improwised Technology</a>. I Love to streamlining software delivery and optimizing infrastructure. Proficient in CI/CD pipeline, implementation, and automation. Skilled in containerization with Docker and orchestration with Kubernetes. Adept at ensuring security, scalability, and reliability in modern software development environments.I work with developers to deploy and manage code changes, and with operations staff to ensure that systems are up and running smoothly. I am a friendly guy you can connect with me on social media, I would love to have you in my life.</p>
+<p style="font-size:16px">Hello there, This is <b>Chintan Viradiya</b>. Working as a <a href='https://www.linkedin.com/in/chintan-viradiya-04484b1b8/'>Devops Engineer</a> at <a href='https://www.linkedin.com/company/improwised-technologies/'>Improwised Technology</a>. I Love to streamlining software delivery and optimizing infrastructure. Proficient in CI/CD pipeline, implementation, and automation. Skilled in containerization with Docker and orchestration with Kubernetes. Adept at ensuring security, scalability, and reliability in modern software development environments.I work with developers to deploy and manage code changes, and with operations staff to ensure that systems are up and running smoothly. I am a friendly guy you can connect with me on social media, I would love to have you in my life.</p>
 <h3 align='center'><i>Connect with me:</i></h3>
 <p align='center'>
 <table width="100" align='center'>
@@ -17,13 +17,6 @@
 </table>
 </p>
 </br>
-<table>
-<tr>
-<td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luv7804&show_icons=true&locale=en&layout=compact" alt="luv7804" /></td>
-<td>
- <img src="https://github-readme-stats.vercel.app/api?username=Luv7804&show_icons=true&theme=radical&count_private=true" width="100%">
- </td>
- </tr></table>
 <h2 align='center'><i><a href="https://github.com/Luv7804/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/Luv7804/github-readme-activity-graph#gh-light-mode-only">
@@ -36,8 +29,11 @@
 </br>
 <h2 align='center'><i>Languages and Tools</i></h2>
 
-<table width="100">
+<table align='center' width="100">
 <tr>
+     <td align='center' width="190">
+        <img width="90" src="https://brandeps.com/logo-download/L/Linux-logo-vector-01.svg">
+    </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     </td>
@@ -46,9 +42,6 @@
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg>
     </td>
      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
@@ -59,13 +52,16 @@
         <img src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg">
     </td>
       <td align='center' width="190">
-        <img src=https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg">
     </td>
      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg">
     </td>
     <td align='center'  width="190">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
+    </td>
+      <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg">
     </td>
 </tr>
 </table>
