@@ -48,6 +48,10 @@
     </td>
 </tr>
 <tr>
+     </td>
+      <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg">
+    </td>
     <td align='center'  width="190">
         <img src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg">
     </td>
@@ -59,9 +63,5 @@
     </td>
     <td align='center'  width="190">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
-    </td>
-      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg">
-    </td>
 </tr>
 </table>
