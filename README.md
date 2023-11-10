@@ -27,7 +27,7 @@
 </a>
 </p>
 </br>
-<h2 align='center'><i>Languages and Tools</i></h2>
+<h2 align='center'><i>Tools and Technology</i></h2>
 
 <table align='center' width="100">
 <tr>
@@ -43,11 +43,11 @@
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
     </td>
+</tr>
+<tr>
      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
     </td>
-</tr>
-<tr>
       <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg">
     </td>
@@ -57,21 +57,19 @@
       <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg">
     </td>
-     <td align='center' width="190">
+</tr>
+ <tr>
+    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg">
     </td>
     <td align='center'  width="190">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
     </td>
-</tr>
- <tr>
-        <td align='center' width="190">
+    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg">
-      </td>
-      <td align='center' width="190">
+    </td>
+    <td align='center'  width="190">
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
-      </td>
-
- </tr>
- </tr>
+    </td>
+</tr>
 </table>
