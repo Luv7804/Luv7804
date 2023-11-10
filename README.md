@@ -48,7 +48,6 @@
     </td>
 </tr>
 <tr>
-     </td>
       <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg">
     </td>
@@ -63,5 +62,16 @@
     </td>
     <td align='center'  width="190">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
+    </td>
 </tr>
+ <tr>
+        <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg">
+      </td>
+      <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+      </td>
+
+ </tr>
+ </tr>
 </table>
