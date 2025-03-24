@@ -66,10 +66,18 @@
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
     </td>
     <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/grafana-loki.svg">
+    </td>
+    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg">
     </td>
+</tr>
+ <tr>
     <td align='center'  width="190">
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">
     </td>
 </tr>
 </table>
